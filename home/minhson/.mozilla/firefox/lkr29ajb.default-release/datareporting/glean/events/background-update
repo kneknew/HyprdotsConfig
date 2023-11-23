@@ -1,0 +1,2 @@
+{"timestamp":3850098,"category":"nimbus_events","name":"enroll_failed","extra":{"experiment":"relay-integration-into-firefox-release-for-all-fxa-users","reason":"feature-conflict"}}
+{"timestamp":3850143,"category":"nimbus_events","name":"validation_failed","extra":{"reason":"invalid-feature","feature":"accessibilityCache","experiment":"next-generation-accessibility-engine-powering-screen-readers"}}
